@@ -1,0 +1,11 @@
+DateTime==5.1
+pandas==1.5.2
+plotly==5.13.1
+plotly-express==0.4.1
+numpy
+matplotlib
+collections
+re
+json
+requests
+time
